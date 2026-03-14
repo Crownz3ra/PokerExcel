@@ -19,7 +19,15 @@
         img.visible { display: block; }
 
         .status-msg { color: #555; font-size: 0.9rem; text-align: center; }
+        
     </style>
+   <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js')
+      .then(() => console.log("App pronto para uso Offline!"))
+      .catch(err => console.log("Erro no Service Worker:", err));
+  }
+</script>
 </head>
 <body>
 
