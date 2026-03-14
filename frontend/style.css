@@ -1,0 +1,94 @@
+body {
+    background-color: #1a1d23;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.container { width: 850px; }
+
+/* --- A BARRA DE POSIÇÕES IGUAL AO GTO WIZARD --- */
+.gto-nav-bar {
+    display: flex;
+    gap: 8px;
+    background-color: #1a1d23;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.pos-block {
+    background-color: #21252b;
+    border-radius: 6px;
+    width: 110px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.6;
+    transition: 0.2s;
+}
+
+.pos-block.active {
+    opacity: 1;
+    border-top: 2px solid #00bca4; /* A bordinha verde do site original */
+    background-color: #282c34;
+}
+
+.pos-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: bold;
+    color: #abb2bf;
+    margin-bottom: 8px;
+}
+
+.pos-block.active .pos-header { color: #00bca4; }
+
+.action-item {
+    font-size: 13px;
+    color: #abb2bf;
+    padding: 4px 6px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+.action-item:hover { background-color: #3e4451; }
+.action-item.selected { background-color: #4d78cc; color: white; font-weight: bold; }
+
+/* --- A MATRIZ 14x14 --- */
+.matrix {
+    display: grid;
+    grid-template-columns: repeat(14, 1fr); 
+    gap: 2px;
+    background-color: #2d323a;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.cell {
+    aspect-ratio: 1 / 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 2px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+}
+
+.header-cell {
+    color: #9da5b4;
+    background-color: transparent;
+    font-size: 14px;
+    text-shadow: none;
+}
+
+.legend { margin-top: 20px; display: flex; gap: 20px; justify-content: center; }
+.box { width: 15px; height: 15px; display: inline-block; margin-right: 5px; }
+.raise { background: #f03c3c; }
+.call { background: #5ab966; }
+.fold { background: #3d7cb8; }
