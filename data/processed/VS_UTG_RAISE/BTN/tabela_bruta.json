@@ -1,0 +1,3197 @@
+{
+    "22": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 0.13,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "0.13% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 0.13% 100%, 100% 100%;"
+    },
+    "33": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 1.69,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "1.69% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 1.69% 100%, 100% 100%;"
+    },
+    "44": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 9.43,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "9.43% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 9.43% 100%, 100% 100%;"
+    },
+    "55": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 0.04,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "0.04% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 14.27,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "14.27% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "99.99% 99.99%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 0.04% 99.99%, 14.27% 99.99%, 99.99% 99.99%;"
+    },
+    "66": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 6.01,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "6.01% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 24.12,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "24.12% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 6.01% 100%, 24.12% 100%, 100% 100%;"
+    },
+    "77": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 15.22,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "15.22% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 54.95,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "54.95% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 15.22% 100%, 54.95% 100%, 100% 100%;"
+    },
+    "88": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 24.87,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "24.87% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 87.7,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "87.7% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 24.87% 100%, 87.7% 100%, 100% 100%;"
+    },
+    "99": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 27.89,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "27.89% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 27.89% 100%, 100% 100%;"
+    },
+    "AA": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 125,
+                    "g": 31,
+                    "b": 31
+                },
+                "pct": 0.03,
+                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31)",
+                "tamanhoRaw": "0.03% 100%"
+            },
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(125, 31, 31), rgb(125, 31, 31)), linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)); background-size: 0.03% 100%, 100% 100%;"
+    },
+    "AKs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)); background-size: 100% 100%;"
+    },
+    "AQs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 65.2,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "65.2% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 65.2% 100%, 100% 100%;"
+    },
+    "AJs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 13.13,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "13.13% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 13.13% 100%, 100% 100%;"
+    },
+    "ATs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 22.27,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "22.27% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 22.27% 100%, 100% 100%;"
+    },
+    "A9s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 60.72,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "60.72% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.99% 99.99%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 60.72% 99.99%, 99.99% 99.99%;"
+    },
+    "A8s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 80.72,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "80.72% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 95.42,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "95.42% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 80.72% 100%, 95.42% 100%, 100% 100%;"
+    },
+    "A7s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 65.73,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "65.73% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 65.76,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "65.76% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 65.73% 100%, 65.76% 100%, 100% 100%;"
+    },
+    "A6s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 42.91,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "42.91% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 42.91% 100%, 100% 100%;"
+    },
+    "A5s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 53.07,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "53.07% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 53.07% 100%, 100% 100%;"
+    },
+    "A4s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 84.47,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "84.47% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.99% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 84.47% 100%, 99.99% 100%, 100% 100%;"
+    },
+    "A3s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 96.54,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "96.54% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.98,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.98% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 96.54% 100%, 99.98% 100%, 100% 100%;"
+    },
+    "A2s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 53.3,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "53.3% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "99.99% 99.99%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 53.3% 99.99%, 99.99% 99.99%;"
+    },
+    "AKo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 96.79,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "96.79% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 96.79% 100%, 100% 100%;"
+    },
+    "KK": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 125,
+                    "g": 31,
+                    "b": 31
+                },
+                "pct": 0.02,
+                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31)",
+                "tamanhoRaw": "0.02% 100%"
+            },
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(125, 31, 31), rgb(125, 31, 31)), linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)); background-size: 0.02% 100%, 100% 100%;"
+    },
+    "KQs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 21.94,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "21.94% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 21.94% 100%, 100% 100%;"
+    },
+    "KJs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 20.42,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "20.42% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 20.42% 100%, 100% 100%;"
+    },
+    "KTs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 68.04,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "68.04% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 68.04% 100%, 100% 100%;"
+    },
+    "K9s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 64.24,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "64.24% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 64.24% 100%, 100% 100%;"
+    },
+    "K8s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 7.43,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "7.43% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 7.43% 100%, 100% 100%;"
+    },
+    "K7s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 1.76,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "1.76% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 1.76% 100%, 100% 100%;"
+    },
+    "K6s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 12.57,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "12.57% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 12.57% 100%, 100% 100%;"
+    },
+    "K5s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 76.24,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "76.24% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 76.24% 100%, 100% 100%;"
+    },
+    "K4s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 6.18,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "6.18% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 6.18% 100%, 100% 100%;"
+    },
+    "K3s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 0.04,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "0.04% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 0.04% 100%, 100% 100%;"
+    },
+    "K2s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 0.01,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "0.01% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 0.01% 100%, 100% 100%;"
+    },
+    "AQo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 57.71,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "57.71% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.99% 99.99%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 57.71% 99.99%, 99.99% 99.99%;"
+    },
+    "KQo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 93.86,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "93.86% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.65,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.65% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 93.86% 100%, 99.65% 100%, 100% 100%;"
+    },
+    "QQ": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 86.51,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "86.51% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 86.51% 100%, 100% 100%;"
+    },
+    "QJs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 76.14,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "76.14% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 99.5,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "99.5% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 76.14% 100%, 99.5% 100%, 100% 100%;"
+    },
+    "QTs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 31.86,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "31.86% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 43.96,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "43.96% 99.99%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 99.99,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "99.99% 99.99%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 31.86% 99.99%, 43.96% 99.99%, 99.99% 99.99%;"
+    },
+    "Q9s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q8s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q7s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q6s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q5s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q4s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q3s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q2s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "AJo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 7.38,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "7.38% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 7.38% 100%, 100% 100%;"
+    },
+    "KJo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 7.27,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "7.27% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 7.27% 100%, 100% 100%;"
+    },
+    "QJo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "JJ": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 22.27,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "22.27% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 22.27% 100%, 100% 100%;"
+    },
+    "JTs": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 10.71,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "10.71% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 54.69,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "54.69% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 10.71% 100%, 54.69% 100%, 100% 100%;"
+    },
+    "J9s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 0.01,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "0.01% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 0.01% 100%, 100% 100%;"
+    },
+    "J8s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J7s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J6s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J5s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J4s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J3s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J2s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "ATo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "KTo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "QTo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "JTo": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "TT": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 30.22,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "30.22% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)); background-size: 30.22% 100%, 100% 100%;"
+    },
+    "T9s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 9.65,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "9.65% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 12.62,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "12.62% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100.01,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100.01% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 9.65% 100%, 12.62% 100%, 100.01% 100%;"
+    },
+    "T8s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T7s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T6s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T5s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T4s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T3s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T2s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A9o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K9o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q9o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J9o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T9o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "98s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 1.61,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "1.61% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 1.61% 100%, 100% 100%;"
+    },
+    "97s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "96s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "95s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "94s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "93s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "92s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A8o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K8o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q8o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J8o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T8o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "98o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "87s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 5.72,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "5.72% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 5.72% 100%, 100% 100%;"
+    },
+    "86s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "85s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "84s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "83s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "82s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A7o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K7o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q7o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J7o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T7o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "97o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "87o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "76s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 8.41,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "8.41% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 20.1,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "20.1% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 8.41% 100%, 20.1% 100%, 100% 100%;"
+    },
+    "75s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "74s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "73s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "72s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A6o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K6o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q6o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J6o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T6o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "96o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "86o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "76o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "65s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 29.19,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "29.19% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 57.89,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "57.89% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 29.19% 100%, 57.89% 100%, 100% 100%;"
+    },
+    "64s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "63s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "62s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A5o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K5o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q5o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J5o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T5o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "95o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "85o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "75o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "65o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "54s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 240,
+                    "g": 60,
+                    "b": 60
+                },
+                "pct": 27.9,
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "tamanhoRaw": "27.9% 100%"
+            },
+            {
+                "cor": {
+                    "r": 90,
+                    "g": 185,
+                    "b": 102
+                },
+                "pct": 56.11,
+                "gradienteRaw": "linear-gradient(to right, rgb(90, 185, 102)",
+                "tamanhoRaw": "56.11% 100%"
+            },
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60)), linear-gradient(to right, rgb(90, 185, 102), rgb(90, 185, 102)), linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 27.9% 100%, 56.11% 100%, 100% 100%;"
+    },
+    "53s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "52s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A4o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K4o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q4o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J4o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T4o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "94o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "84o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "74o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "64o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "54o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "43s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "42s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A3o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K3o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q3o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J3o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T3o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "93o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "83o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "73o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "63o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "53o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "43o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "32s": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "A2o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "K2o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "Q2o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "J2o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "T2o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "92o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "82o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "72o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "62o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "52o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "42o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    },
+    "32o": {
+        "acoes": [
+            {
+                "cor": {
+                    "r": 61,
+                    "g": 124,
+                    "b": 184
+                },
+                "pct": 100,
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "tamanhoRaw": "100% 100%"
+            }
+        ],
+        "styleRaw": "background-image: linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184)); background-size: 100% 100%;"
+    }
+}
