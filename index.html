@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Poker GTO - Felipe</title>
+    <style>
+        :root { --bg: #0f0f0f; --card: #1e1e1e; --accent: #e74c3c; --text: #ffffff; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
+        
+        h2 { font-size: 1.2rem; margin-bottom: 15px; color: #888; }
+        .grid-selector { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; width: 100%; max-width: 400px; margin-bottom: 15px; }
+        
+        button { padding: 12px 5px; background: var(--card); border: 1px solid #333; color: white; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; -webkit-tap-highlight-color: transparent; }
+        button.active { background: var(--accent); border-color: #ff5555; }
+        
+        .display-area { margin-top: 10px; width: 100%; max-width: 500px; min-height: 300px; border: 1px dashed #333; border-radius: 12px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+        img { width: 100%; height: auto; display: none; border-radius: 8px; }
+        img.visible { display: block; }
+
+        .status-msg { color: #555; font-size: 0.9rem; text-align: center; }
+    </style>
+</head>
+<body>
+
+    <h2>VILÃO (Agressor)</h2>
+    <div class="grid-selector" id="villain-btns">
+        <button onclick="setVillain('utg', this)">UTG</button>
+        <button onclick="setVillain('hj', this)">HJ</button>
+        <button onclick="setVillain('co', this)">CO</button>
+        <button onclick="setVillain('btn', this)">BTN</button>
+        <button onclick="setVillain('sb', this)">SB</button>
+        <button onclick="setVillain('none', this)" class="active">NINGUÉM</button>
+    </div>
+
+    <h2>EU (Hero)</h2>
+    <div class="grid-selector" id="hero-btns">
+        <button onclick="setHero('utg', this)">UTG</button>
+        <button onclick="setHero('hj', this)">HJ</button>
+        <button onclick="setHero('co', this)">CO</button>
+        <button onclick="setHero('btn', this)">BTN</button>
+        <button onclick="setHero('sb', this)">SB</button>
+        <button onclick="setHero('bb', this)">BB</button>
+    </div>
+
+    <div class="display-area">
+        <p id="placeholder" class="status-msg">Selecione as posições para ver o range</p>
+        <img id="range-img" src="" alt="Range">
+    </div>
+
+    <script>
+        let villain = 'none';
+        let hero = '';
+
+        function updateRange() {
+            const img = document.getElementById('range-img');
+            const placeholder = document.getElementById('placeholder');
+            let fileName = "";
+
+            if (villain === 'none') {
+                // Cenário de OPEN RAISE
+                fileName = `open_${hero}_100bb.png`;
+            } else {
+                // Cenário de DEFESA
+                fileName = `${hero}_vs_${villain}_100bb.png`;
+            }
+
+            // O caminho deve apontar para sua pasta 'Tabelas'
+            img.src = `Tabelas/${fileName}`;
+            
+            img.onload = () => {
+                img.classList.add('visible');
+                placeholder.style.display = 'none';
+            };
+            
+            img.onerror = () => {
+                img.classList.remove('visible');
+                placeholder.style.display = 'block';
+                placeholder.innerText = "Tabela não encontrada: " + fileName;
+            };
+        }
+
+        function setVillain(pos, btn) {
+            villain = pos;
+            document.querySelectorAll('#villain-btns button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            if(hero) updateRange();
+        }
+
+        function setHero(pos, btn) {
+            hero = pos;
+            document.querySelectorAll('#hero-btns button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            updateRange();
+        }
+    </script>
+</body>
+</html>
