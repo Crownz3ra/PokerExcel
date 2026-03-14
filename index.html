@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Poker GTO - Felipe</title>
+    <title>PokerExcel - Felipe</title>
+    <link rel="manifest" href="manifest.json">
     <style>
         :root { --bg: #0f0f0f; --card: #1e1e1e; --accent: #e74c3c; --text: #ffffff; }
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
@@ -21,13 +22,6 @@
         .status-msg { color: #555; font-size: 0.9rem; text-align: center; }
         
     </style>
-   <script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js')
-      .then(() => console.log("App pronto para uso Offline!"))
-      .catch(err => console.log("Erro no Service Worker:", err));
-  }
-</script>
 </head>
 <body>
 
@@ -101,6 +95,15 @@
             btn.classList.add('active');
             updateRange();
         }
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('./sw.js')
+            .then(() => console.log("App pronto para uso Offline!"))
+            .catch(err => console.log("Erro no Service Worker:", err));
+        });
+      }
     </script>
 </body>
 </html>
