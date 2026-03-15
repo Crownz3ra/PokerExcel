@@ -2,12 +2,18 @@ import json
 import os
 
 def classificar_cor_rgb(r, g, b):
+    # Vermelho escuro = Raise (ex: rgb(125, 31, 31))
+    if r > 100 and r > g * 2 and r > b * 2:
+        return "Raise"
+    # Vermelho vivo = Raise (ex: rgb(240, 60, 60))
     if r > 150 and r > g * 1.5 and r > b * 1.5:
         return "Raise"
-    if r > 150 and g > 80 and b < 80:
-        return "Raise"
-    if g > 100 and g > r * 1.2 and g > b * 1.2:
+    # Verde = Call (ex: rgb(90, 185, 102))
+    if g > 150 and g > r * 1.5 and g > b * 1.2:
         return "Call"
+    # Azul = Fold (ex: rgb(61, 124, 184))
+    if b > 100 and b > r and b > g:
+        return "Fold"
     return "Fold"
 
 def traduzir_estilo(dados_celula):
