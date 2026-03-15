@@ -8,7 +8,7 @@
                     "b": 60
                 },
                 "pct": 0.09,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "0.09% 100%"
             },
             {
@@ -18,7 +18,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -33,7 +33,7 @@
                     "b": 60
                 },
                 "pct": 8.37,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "8.37% 100%"
             },
             {
@@ -43,7 +43,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -58,7 +58,7 @@
                     "b": 60
                 },
                 "pct": 26.55,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "26.55% 100%"
             },
             {
@@ -68,7 +68,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -83,7 +83,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -98,7 +98,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -113,7 +113,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -128,7 +128,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -143,7 +143,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -158,7 +158,7 @@
                     "b": 31
                 },
                 "pct": 0.01,
-                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31)",
+                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31), rgb(125, 31, 31))",
                 "tamanhoRaw": "0.01% 100%"
             },
             {
@@ -168,7 +168,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -183,7 +183,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -198,7 +198,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -213,7 +213,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -228,7 +228,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -243,7 +243,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -258,7 +258,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -273,7 +273,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -288,7 +288,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -303,7 +303,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -318,7 +318,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -333,7 +333,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -348,7 +348,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -363,7 +363,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -378,7 +378,7 @@
                     "b": 31
                 },
                 "pct": 0.02,
-                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31)",
+                "gradienteRaw": "linear-gradient(to right, rgb(125, 31, 31), rgb(125, 31, 31))",
                 "tamanhoRaw": "0.02% 100%"
             },
             {
@@ -388,7 +388,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -403,7 +403,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -418,7 +418,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -433,7 +433,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -448,7 +448,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -463,7 +463,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -478,7 +478,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -493,7 +493,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -508,7 +508,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -523,7 +523,7 @@
                     "b": 60
                 },
                 "pct": 81.9,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "81.9% 100%"
             },
             {
@@ -533,7 +533,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -548,7 +548,7 @@
                     "b": 60
                 },
                 "pct": 0.01,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "0.01% 100%"
             },
             {
@@ -558,7 +558,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -573,7 +573,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -588,7 +588,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -603,7 +603,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -618,7 +618,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -633,7 +633,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -648,7 +648,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -663,7 +663,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -678,7 +678,7 @@
                     "b": 60
                 },
                 "pct": 93.57,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "93.57% 100%"
             },
             {
@@ -688,7 +688,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -703,7 +703,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -718,7 +718,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -733,7 +733,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -748,7 +748,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -763,7 +763,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -778,7 +778,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -793,7 +793,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -808,7 +808,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -823,7 +823,7 @@
                     "b": 60
                 },
                 "pct": 99.99,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "99.99% 100%"
             },
             {
@@ -833,7 +833,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -848,7 +848,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -863,7 +863,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -878,7 +878,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -893,7 +893,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -908,7 +908,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -923,7 +923,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -938,7 +938,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -953,7 +953,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -968,7 +968,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -983,7 +983,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -998,7 +998,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1013,7 +1013,7 @@
                     "b": 60
                 },
                 "pct": 99.97,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "99.97% 100%"
             },
             {
@@ -1023,7 +1023,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1038,7 +1038,7 @@
                     "b": 60
                 },
                 "pct": 54.53,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "54.53% 100%"
             },
             {
@@ -1048,7 +1048,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1063,7 +1063,7 @@
                     "b": 60
                 },
                 "pct": 7.25,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "7.25% 100%"
             },
             {
@@ -1073,7 +1073,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1088,7 +1088,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1103,7 +1103,7 @@
                     "b": 60
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1118,7 +1118,7 @@
                     "b": 60
                 },
                 "pct": 62.1,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "62.1% 100%"
             },
             {
@@ -1128,7 +1128,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1143,7 +1143,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1158,7 +1158,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1173,7 +1173,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1188,7 +1188,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1203,7 +1203,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1218,7 +1218,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1233,7 +1233,7 @@
                     "b": 60
                 },
                 "pct": 99.69,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "99.69% 100%"
             },
             {
@@ -1243,7 +1243,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1258,7 +1258,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1273,7 +1273,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1288,7 +1288,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1303,7 +1303,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1318,7 +1318,7 @@
                     "b": 60
                 },
                 "pct": 89.29,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "89.29% 100%"
             },
             {
@@ -1328,7 +1328,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1343,7 +1343,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1358,7 +1358,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1373,7 +1373,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1388,7 +1388,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1403,7 +1403,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1418,7 +1418,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1433,7 +1433,7 @@
                     "b": 60
                 },
                 "pct": 4.61,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "4.61% 100%"
             },
             {
@@ -1443,7 +1443,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1458,7 +1458,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1473,7 +1473,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1488,7 +1488,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1503,7 +1503,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1518,7 +1518,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1533,7 +1533,7 @@
                     "b": 60
                 },
                 "pct": 29.66,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "29.66% 100%"
             },
             {
@@ -1543,7 +1543,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1558,7 +1558,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1573,7 +1573,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1588,7 +1588,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1603,7 +1603,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1618,7 +1618,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1633,7 +1633,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1648,7 +1648,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1663,7 +1663,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1678,7 +1678,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1693,7 +1693,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1708,7 +1708,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1723,7 +1723,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1738,7 +1738,7 @@
                     "b": 60
                 },
                 "pct": 24.72,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "24.72% 100%"
             },
             {
@@ -1748,7 +1748,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1763,7 +1763,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1778,7 +1778,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1793,7 +1793,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1808,7 +1808,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1823,7 +1823,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1838,7 +1838,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1853,7 +1853,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1868,7 +1868,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1883,7 +1883,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1898,7 +1898,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1913,7 +1913,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1928,7 +1928,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1943,7 +1943,7 @@
                     "b": 60
                 },
                 "pct": 44.05,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "44.05% 100%"
             },
             {
@@ -1953,7 +1953,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1968,7 +1968,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1983,7 +1983,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -1998,7 +1998,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2013,7 +2013,7 @@
                     "b": 60
                 },
                 "pct": 14.86,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "14.86% 100%"
             },
             {
@@ -2023,7 +2023,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2038,7 +2038,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2053,7 +2053,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2068,7 +2068,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2083,7 +2083,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2098,7 +2098,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2113,7 +2113,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2128,7 +2128,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2143,7 +2143,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2158,7 +2158,7 @@
                     "b": 60
                 },
                 "pct": 23.35,
-                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60)",
+                "gradienteRaw": "linear-gradient(to right, rgb(240, 60, 60), rgb(240, 60, 60))",
                 "tamanhoRaw": "23.35% 100%"
             },
             {
@@ -2168,7 +2168,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2183,7 +2183,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2198,7 +2198,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2213,7 +2213,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2228,7 +2228,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2243,7 +2243,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2258,7 +2258,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2273,7 +2273,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2288,7 +2288,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2303,7 +2303,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2318,7 +2318,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2333,7 +2333,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2348,7 +2348,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2363,7 +2363,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2378,7 +2378,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2393,7 +2393,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2408,7 +2408,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2423,7 +2423,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2438,7 +2438,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2453,7 +2453,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2468,7 +2468,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2483,7 +2483,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2498,7 +2498,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2513,7 +2513,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2528,7 +2528,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2543,7 +2543,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2558,7 +2558,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2573,7 +2573,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2588,7 +2588,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2603,7 +2603,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2618,7 +2618,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2633,7 +2633,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2648,7 +2648,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2663,7 +2663,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2678,7 +2678,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2693,7 +2693,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2708,7 +2708,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2723,7 +2723,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],
@@ -2738,7 +2738,7 @@
                     "b": 184
                 },
                 "pct": 100,
-                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184)",
+                "gradienteRaw": "linear-gradient(to right, rgb(61, 124, 184), rgb(61, 124, 184))",
                 "tamanhoRaw": "100% 100%"
             }
         ],

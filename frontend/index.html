@@ -2,28 +2,57 @@
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
-    <title>PokerExcel - Strategy Viewer</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#0d0f14" />
+    <title>PokerExcel</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Syne:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <div id="gto-action-tree" class="gto-nav-bar"></div>
+    <div class="app">
+      <!-- TOP BAR -->
+      <header class="topbar">
+        <div class="topbar-logo">POKER<span>EXCEL</span></div>
+        <div class="topbar-scenario" id="scenario-label">RFI</div>
+      </header>
 
-      <div id="poker-matrix" class="matrix"></div>
+      <!-- POSITION SELECTOR (horizontal scroll) -->
+      <div class="pos-rail-wrap">
+        <div class="pos-rail" id="pos-rail"></div>
+      </div>
 
+      <!-- ACTION DRAWER (appears when pos active) -->
+      <div class="action-drawer" id="action-drawer"></div>
+
+      <!-- MATRIX -->
+      <div class="matrix-wrap">
+        <div class="matrix-scroll">
+          <div class="matrix" id="poker-matrix"></div>
+        </div>
+      </div>
+
+      <!-- LEGEND -->
       <div class="legend">
-        <span class="legend-item"
-          ><div class="box raise"></div>
-          Raise</span
-        >
-        <span class="legend-item"
-          ><div class="box call"></div>
-          Call</span
-        >
-        <span class="legend-item"
-          ><div class="box fold"></div>
-          Fold</span
-        >
+        <div class="legend-item">
+          <div class="legend-dot raise"></div>
+          <span>Raise</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot call"></div>
+          <span>Call</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot fold"></div>
+          <span>Fold</span>
+        </div>
       </div>
     </div>
     <script src="script.js"></script>

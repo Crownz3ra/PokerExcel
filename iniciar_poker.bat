@@ -7,7 +7,7 @@ echo           INICIANDO CICLO POKEREXCEL 1.0
 echo ======================================================
 echo.
 
-echo [1/3]  Rodando o Bot Hunter (V10)...
+echo [1/3]  Rodando o Bot Hunter...
 py src/bot_excel.py
 if %errorlevel% neq 0 (
     echo.
@@ -27,11 +27,10 @@ if %errorlevel% neq 0 (
 )
 
 echo.
-echo [3/3]  Tudo pronto!
-echo.
-echo O servidor local deve estar rodando em outro terminal.
-echo Abrindo seu PokerExcel no navegador...
-start http://localhost:8000/frontend/index.html
+echo [3/3]  Iniciando servidor e abrindo PokerExcel...
+start "PokerExcel Server" py src/main.py
+timeout /t 3 /nobreak >nul
+start http://127.0.0.1:8000
 
 echo.
 echo ======================================================
