@@ -69,6 +69,69 @@ def salvar_dados(pagina, pasta_cenario, posicao):
         print(f"❌ Falha: extração retornou vazio.")
 
 
+def clicar_btn_texto(pagina, texto):
+    """Clica em um botão pelo texto exato."""
+    pagina.evaluate(
+        f"""() => {{
+        const btns = Array.from(document.querySelectorAll('button, [role="button"]'));
+        const btn = btns.find(b => b.innerText.trim() === '{texto}');
+        if (btn) btn.click();
+    }}"""
+    )
+    pagina.wait_for_timeout(400)
+
+
+def configurar_gto(pagina):
+    print(
+        "⚙️ Configurando GTO Wizard (Cash / 6max / Classic / 100bb / NL50 / General 2x)..."
+    )
+
+    # Abre o modal de configuração
+    try:
+        pagina.locator('[data-tst="shrtbtn_change_solution"]').click(timeout=3000)
+    except:
+        pagina.evaluate(
+            """() => {
+            const btns = Array.from(document.querySelectorAll('button'));
+            const btn = btns.find(b => b.innerText.trim() === 'Change');
+            if (btn) btn.click();
+        }"""
+        )
+    pagina.wait_for_timeout(2000)
+
+    # Seleciona cada opção
+    clicar_btn_texto(pagina, "Cash")
+    clicar_btn_texto(pagina, "Classic")
+    clicar_btn_texto(pagina, "6max")
+    clicar_btn_texto(pagina, "Preflop only")
+    clicar_btn_texto(pagina, "100")
+    clicar_btn_texto(pagina, "NL50")
+    clicar_btn_texto(pagina, "General")
+    clicar_btn_texto(pagina, "2x")
+    pagina.wait_for_timeout(500)
+
+    # Clica na linha General / NL50 / 2x da tabela de resultados
+    pagina.evaluate(
+        """() => {
+        const rows = Array.from(document.querySelectorAll('tr, [role="row"]'));
+        for (const row of rows) {
+            const txt = row.innerText || '';
+            if (txt.includes('General') &&
+                txt.includes('NL50') &&
+                txt.includes('2x') &&
+                !txt.includes('2.25x') &&
+                !txt.includes('2.5x') &&
+                !txt.includes('3x')) {
+                row.click();
+                return;
+            }
+        }
+    }"""
+    )
+    pagina.wait_for_timeout(2000)
+    print("✅ Configuração aplicada!")
+
+
 def clicar_posicao(pagina, pos):
     return pagina.evaluate(
         f"""() => {{
@@ -124,17 +187,59 @@ def resetar_arvore(pagina):
         pagina.wait_for_timeout(2000)
 
 
-def navegar(pagina, acoes):
-    for pos, acao in acoes:
-        clicar_posicao(pagina, pos)
+def navegar_ate_squeeze(pagina, raiser, callers, squeezer, ordem):
+    """Navega até o estado pós-squeeze."""
+    for p in ordem:
+        if p == raiser:
+            break
+        clicar_posicao(pagina, p)
         pagina.wait_for_timeout(800)
-        clicar_acao(pagina, acao, pos)
+        clicar_acao(pagina, "Fold", p)
+        pagina.wait_for_timeout(800)
+
+    clicar_posicao(pagina, raiser)
+    pagina.wait_for_timeout(800)
+    clicar_acao(pagina, "Raise", raiser)
+    pagina.wait_for_timeout(800)
+
+    ultimo = raiser
+    for caller in callers:
+        idx_ultimo = ordem.index(ultimo)
+        idx_caller = ordem.index(caller)
+        for p in ordem[idx_ultimo + 1 : idx_caller]:
+            clicar_posicao(pagina, p)
+            pagina.wait_for_timeout(800)
+            clicar_acao(pagina, "Fold", p)
+            pagina.wait_for_timeout(800)
+        clicar_posicao(pagina, caller)
+        pagina.wait_for_timeout(800)
+        clicar_acao(pagina, "Call", caller)
+        pagina.wait_for_timeout(800)
+        ultimo = caller
+
+    idx_ultimo = ordem.index(ultimo)
+    idx_sqz = ordem.index(squeezer)
+    for p in ordem[idx_ultimo + 1 : idx_sqz]:
+        clicar_posicao(pagina, p)
+        pagina.wait_for_timeout(800)
+        clicar_acao(pagina, "Fold", p)
+        pagina.wait_for_timeout(800)
+
+    clicar_posicao(pagina, squeezer)
+    pagina.wait_for_timeout(800)
+    clicar_acao(pagina, "Raise", squeezer)
+    pagina.wait_for_timeout(800)
+
+    for p in ordem[idx_sqz + 1 :]:
+        clicar_posicao(pagina, p)
+        pagina.wait_for_timeout(800)
+        clicar_acao(pagina, "Fold", p)
         pagina.wait_for_timeout(800)
 
 
 def extrair_arvore():
     with sync_playwright() as p:
-        print("🚀 Bot V24")
+        print("🚀 Bot V26")
         caminho_perfil = r"C:\ChromeDevSession"
         contexto = p.chromium.launch_persistent_context(
             user_data_dir=caminho_perfil, channel="chrome", headless=False
@@ -147,6 +252,9 @@ def extrair_arvore():
         limpar_dados()
         print("\n⏳ Iniciando em 6 segundos... Deixe a tela visível.")
         time.sleep(6)
+
+        # Garante configuração correta antes de extrair
+        configurar_gto(pagina)
 
         ordem = ["UTG", "HJ", "CO", "BTN", "SB", "BB"]
 
@@ -321,7 +429,6 @@ def extrair_arvore():
             print(f"\n  {pasta}")
             resetar_arvore(pagina)
 
-            # Fold antes do raiser
             for p in ordem:
                 if p == raiser:
                     break
@@ -330,13 +437,11 @@ def extrair_arvore():
                 clicar_acao(pagina, "Fold", p)
                 pagina.wait_for_timeout(800)
 
-            # Raiser dá Raise
             clicar_posicao(pagina, raiser)
             pagina.wait_for_timeout(800)
             clicar_acao(pagina, "Raise", raiser)
             pagina.wait_for_timeout(800)
 
-            # Fold entre raiser e 3-bettor
             idx_raiser = ordem.index(raiser)
             idx_3bet = ordem.index(tresbetor)
             for p in ordem[idx_raiser + 1 : idx_3bet]:
@@ -345,21 +450,51 @@ def extrair_arvore():
                 clicar_acao(pagina, "Fold", p)
                 pagina.wait_for_timeout(800)
 
-            # 3-bettor dá Raise
             clicar_posicao(pagina, tresbetor)
             pagina.wait_for_timeout(800)
             clicar_acao(pagina, "Raise", tresbetor)
             pagina.wait_for_timeout(800)
 
-            # Fold em todos após o 3-bettor até o fim
             for p in ordem[idx_3bet + 1 :]:
                 clicar_posicao(pagina, p)
                 pagina.wait_for_timeout(800)
                 clicar_acao(pagina, "Fold", p)
                 pagina.wait_for_timeout(800)
 
-            # Raiser age após a 3-bet
             salvar_dados(pagina, pasta, raiser)
+
+        # --- FASE 9: SQUEEZE ---
+        print("\n--- FASE 9: SQUEEZE ---")
+
+        cenarios_squeeze = [
+            ("CO", ["BTN"], "BB", "CO_R_BTN_C_BB_SQZ"),
+            ("HJ", ["CO"], "BTN", "HJ_R_CO_C_BTN_SQZ"),
+            ("UTG", ["BTN"], "BB", "UTG_R_BTN_C_BB_SQZ"),
+            ("CO", ["BTN"], "SB", "CO_R_BTN_C_SB_SQZ"),
+        ]
+
+        for raiser, callers, squeezer, pasta in cenarios_squeeze:
+            print(f"\n  {pasta}")
+
+            # 1. Extrai tabela do squeezer
+            resetar_arvore(pagina)
+            navegar_ate_squeeze(pagina, raiser, callers, squeezer, ordem)
+            salvar_dados(pagina, pasta, squeezer)
+
+            # 2. Extrai tabela do raiser respondendo ao squeeze
+            resetar_arvore(pagina)
+            navegar_ate_squeeze(pagina, raiser, callers, squeezer, ordem)
+            salvar_dados(pagina, pasta, raiser)
+
+            # 3. Extrai tabela de cada caller respondendo ao squeeze
+            for caller in callers:
+                resetar_arvore(pagina)
+                navegar_ate_squeeze(pagina, raiser, callers, squeezer, ordem)
+                clicar_posicao(pagina, raiser)
+                pagina.wait_for_timeout(800)
+                clicar_acao(pagina, "Call", raiser)
+                pagina.wait_for_timeout(800)
+                salvar_dados(pagina, pasta, caller)
 
         print("\n🏁 EXTRAÇÃO FINALIZADA! Pode rodar o Processador.")
         contexto.close()

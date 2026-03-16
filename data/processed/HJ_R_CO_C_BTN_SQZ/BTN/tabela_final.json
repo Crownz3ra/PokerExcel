@@ -1,0 +1,187 @@
+{
+    "33": {
+        "Raise": 0.0,
+        "Call": 0.7,
+        "Fold": 99.3
+    },
+    "44": {
+        "Raise": 0.0,
+        "Call": 0.6,
+        "Fold": 99.4
+    },
+    "55": {
+        "Raise": 0.0,
+        "Call": 0.8,
+        "Fold": 99.2
+    },
+    "66": {
+        "Raise": 0.0,
+        "Call": 1.2,
+        "Fold": 98.8
+    },
+    "77": {
+        "Raise": 0.0,
+        "Call": 1.9,
+        "Fold": 98.1
+    },
+    "88": {
+        "Raise": 0.2,
+        "Call": 3.0,
+        "Fold": 96.8
+    },
+    "99": {
+        "Raise": 0.4,
+        "Call": 3.1,
+        "Fold": 96.5
+    },
+    "AA": {
+        "Raise": 100.0,
+        "Call": 0.0,
+        "Fold": 0.0
+    },
+    "AKs": {
+        "Raise": 100.0,
+        "Call": 0.0,
+        "Fold": 0.0
+    },
+    "AQs": {
+        "Raise": 80.0,
+        "Call": 20.0,
+        "Fold": 0.0
+    },
+    "AJs": {
+        "Raise": 0.3,
+        "Call": 0.4,
+        "Fold": 99.3
+    },
+    "ATs": {
+        "Raise": 51.5,
+        "Call": 0.0,
+        "Fold": 48.5
+    },
+    "A9s": {
+        "Raise": 13.2,
+        "Call": 0.0,
+        "Fold": 86.8
+    },
+    "A8s": {
+        "Raise": 8.3,
+        "Call": 0.0,
+        "Fold": 91.7
+    },
+    "A7s": {
+        "Raise": 37.0,
+        "Call": 0.0,
+        "Fold": 63.0
+    },
+    "A6s": {
+        "Raise": 0.6,
+        "Call": 0.0,
+        "Fold": 99.4
+    },
+    "A5s": {
+        "Raise": 56.7,
+        "Call": 0.1,
+        "Fold": 43.2
+    },
+    "A4s": {
+        "Raise": 1.3,
+        "Call": 0.1,
+        "Fold": 98.5
+    },
+    "A3s": {
+        "Raise": 4.3,
+        "Call": 0.0,
+        "Fold": 95.7
+    },
+    "AKo": {
+        "Raise": 99.4,
+        "Call": 0.6,
+        "Fold": 0.0
+    },
+    "KK": {
+        "Raise": 100.0,
+        "Call": 0.0,
+        "Fold": 0.0
+    },
+    "KQs": {
+        "Raise": 56.4,
+        "Call": 5.2,
+        "Fold": 38.4
+    },
+    "KJs": {
+        "Raise": 0.5,
+        "Call": 0.0,
+        "Fold": 99.5
+    },
+    "KTs": {
+        "Raise": 98.5,
+        "Call": 0.0,
+        "Fold": 1.5
+    },
+    "K9s": {
+        "Raise": 23.9,
+        "Call": 0.0,
+        "Fold": 76.2
+    },
+    "K8s": {
+        "Raise": 33.6,
+        "Call": 0.0,
+        "Fold": 66.4
+    },
+    "K7s": {
+        "Raise": 16.0,
+        "Call": 0.0,
+        "Fold": 84.0
+    },
+    "K6s": {
+        "Raise": 36.8,
+        "Call": 0.0,
+        "Fold": 63.2
+    },
+    "K5s": {
+        "Raise": 0.0,
+        "Call": 0.0,
+        "Fold": 100.0
+    },
+    "K4s": {
+        "Raise": 0.0,
+        "Call": 0.0,
+        "Fold": 100.0
+    },
+    "AQo": {
+        "Raise": 32.9,
+        "Call": 0.0,
+        "Fold": 67.1
+    },
+    "QQ": {
+        "Raise": 96.3,
+        "Call": 3.7,
+        "Fold": 0.0
+    },
+    "JJ": {
+        "Raise": 91.1,
+        "Call": 8.9,
+        "Fold": 0.0
+    },
+    "TT": {
+        "Raise": 8.6,
+        "Call": 1.8,
+        "Fold": 89.6
+    },
+    "76s": {
+        "Raise": 0.0,
+        "Call": 0.5,
+        "Fold": 99.5
+    },
+    "65s": {
+        "Raise": 0.0,
+        "Call": 5.6,
+        "Fold": 94.4
+    },
+    "54s": {
+        "Raise": 0.0,
+        "Call": 13.0,
+        "Fold": 87.0
+    }
+}

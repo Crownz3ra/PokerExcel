@@ -28,8 +28,22 @@ if %errorlevel% neq 0 (
 
 echo.
 echo [3/3]  Iniciando servidor e abrindo PokerExcel...
-start "PokerExcel Server" py src/main.py
-timeout /t 3 /nobreak >nul
+
+:: Verifica se o servidor já está rodando
+curl -s http://127.0.0.1:8000/api/health >nul 2>&1
+if %errorlevel% equ 0 (
+    echo  Servidor ja esta rodando, reutilizando...
+) else (
+    echo  Iniciando novo servidor...
+    start "PokerExcel Server" py src/main.py
+    echo  Aguardando servidor iniciar...
+    :wait_loop
+    timeout /t 2 /nobreak >nul
+    curl -s http://127.0.0.1:8000/api/health >nul 2>&1
+    if %errorlevel% neq 0 goto wait_loop
+    echo  Servidor pronto!
+)
+
 start http://127.0.0.1:8000
 
 echo.

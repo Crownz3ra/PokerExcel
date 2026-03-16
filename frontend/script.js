@@ -8,9 +8,13 @@ const RED = "#ef4444";
 const GREEN = "#22c55e";
 const BLUE = "#3b82f6";
 
-// state[i] = null | "Fold" | "Raise" | "Call" | "3Bet"
+// state[i] = null | "Fold" | "Raise" | "Call" | "3Bet" | "SQZ"
 let state = Array(6).fill(null);
 let activeIdx = 0;
+
+// roundTwo: respostas ao squeeze (raiser + callers agem novamente)
+let roundTwo = Array(6).fill(null);
+let inRoundTwo = false;
 
 /* ── helpers ── */
 
@@ -22,32 +26,49 @@ function getFirstRaiserIdx() {
   return state.indexOf("Raise");
 }
 
-function get3BetIdx() {
-  return state.indexOf("3Bet");
+function getSQZIdx() {
+  const i3 = state.indexOf("3Bet");
+  const sq = state.indexOf("SQZ");
+  if (i3 >= 0 && sq >= 0) return Math.min(i3, sq);
+  if (i3 >= 0) return i3;
+  return sq;
 }
 
-function getFolder(upTo) {
-  // upTo = exclusive index (default: all 6)
-  const limit = upTo !== undefined ? upTo : 6;
+function hasCaller() {
+  return state.some((s) => s === "Call");
+}
+
+function getFolder() {
   let pasta = "";
-  for (let i = 0; i < limit; i++) {
-    if (state[i] === "Raise") {
-      pasta += (pasta ? "_" : "") + POSITIONS[i] + "_R";
-    } else if (state[i] === "Call") {
+  for (let i = 0; i < 6; i++) {
+    if (state[i] === "Raise") pasta += (pasta ? "_" : "") + POSITIONS[i] + "_R";
+    else if (state[i] === "Call")
       pasta += (pasta ? "_" : "") + POSITIONS[i] + "_C";
-    } else if (state[i] === "3Bet") {
+    else if (state[i] === "3Bet")
       pasta += (pasta ? "_" : "") + POSITIONS[i] + "_3B";
-    }
+    else if (state[i] === "SQZ")
+      pasta += (pasta ? "_" : "") + POSITIONS[i] + "_SQZ";
   }
   return pasta || "RFI";
 }
 
+// Ordem em que raiser e callers respondem ao squeeze
+function getRoundTwoOrder() {
+  const participants = [];
+  for (let i = 0; i < 6; i++) {
+    if (state[i] === "Raise" || state[i] === "Call") participants.push(i);
+  }
+  return participants.sort((a, b) => a - b);
+}
+
 function getActions() {
   const raises = countRaises();
-  const has3Bet = get3BetIdx() >= 0;
+  const sqzIdx = getSQZIdx();
+  const has3BetOrSQZ = sqzIdx >= 0;
   const pos = POSITIONS[activeIdx];
 
-  if (has3Bet) return ["Fold", "Call"];
+  if (inRoundTwo) return ["Fold", "Call"];
+  if (has3BetOrSQZ) return ["Fold", "Call"];
   if (raises === 1) return ["Fold", "Call", "Raise 7", "Allin 100"];
 
   if (pos === "BB") return ["Check", "Raise 2", "Allin 100"];
@@ -65,42 +86,64 @@ function baseOf(label) {
 
 function scenarioLabel() {
   const folder = getFolder();
-  return folder === "RFI" ? "RFI" : folder;
+  if (folder === "RFI") return "RFI";
+
+  return folder
+    .replace(/_R(?=_|$)/g, " Raise")
+    .replace(/_C(?=_|$)/g, " Call")
+    .replace(/_3B(?=_|$)/g, " 3Bet")
+    .replace(/_SQZ(?=_|$)/g, " Squeeze")
+    .replace(/_/g, " • ")
+    .trim();
 }
 
 /* ── interactions ── */
 
 function resetGame() {
   state = Array(6).fill(null);
+  roundTwo = Array(6).fill(null);
+  inRoundTwo = false;
   activeIdx = 0;
   render();
 }
 
 function selectAction(label) {
   let base = baseOf(label);
-  const raises = countRaises();
-  const has3Bet = get3BetIdx() >= 0;
 
-  if (base === "Raise" && raises >= 1 && !has3Bet) {
-    base = "3Bet";
+  // ── Round dois (resposta ao squeeze) ──
+  if (inRoundTwo) {
+    roundTwo[activeIdx] = base;
+    const order = getRoundTwoOrder();
+    const next = order.find((i) => roundTwo[i] === null);
+    if (next !== undefined) {
+      activeIdx = next;
+    }
+    render();
+    return;
+  }
+
+  // ── Round um ──
+  const raises = countRaises();
+  const has3BetOrSQZ = getSQZIdx() >= 0;
+  const caller = hasCaller();
+
+  // Segundo raise = 3Bet (sem caller) ou SQZ (com caller)
+  if (base === "Raise" && raises >= 1 && !has3BetOrSQZ) {
+    base = caller ? "SQZ" : "3Bet";
   }
 
   state[activeIdx] = base;
 
-  // Limpa posições futuras
+  // Limpa posições futuras e preenche folds implícitos
   for (let i = activeIdx + 1; i < 6; i++) state[i] = null;
+  for (let i = 0; i < activeIdx; i++) if (state[i] === null) state[i] = "Fold";
 
-  // Preenche folds implícitos para posições anteriores
-  for (let i = 0; i < activeIdx; i++) {
-    if (state[i] === null) state[i] = "Fold";
-  }
+  const sqzIdx = getSQZIdx();
 
-  const tresBetIdx = get3BetIdx();
-
-  if (tresBetIdx >= 0) {
-    // Após 3-bet: próxima posição após o 3-bettor que ainda não agiu
+  if (sqzIdx >= 0) {
+    // Procura próxima posição após o agressor que ainda não agiu
     let proximaAtiva = -1;
-    for (let i = tresBetIdx + 1; i < 6; i++) {
+    for (let i = sqzIdx + 1; i < 6; i++) {
       if (state[i] === null) {
         proximaAtiva = i;
         break;
@@ -109,15 +152,19 @@ function selectAction(label) {
 
     if (proximaAtiva >= 0) {
       activeIdx = proximaAtiva;
+    } else if (base === "SQZ") {
+      // Squeeze completo — inicia round dois
+      inRoundTwo = true;
+      roundTwo = Array(6).fill(null);
+      const order = getRoundTwoOrder();
+      activeIdx = order.length > 0 ? order[0] : activeIdx;
     } else {
-      // Todos após o 3-bettor falaram — volta para o raiser
+      // 3-bet isolada — volta para o raiser
       const raiserIdx = getFirstRaiserIdx();
-      const raiserJaRespondeu = state[raiserIdx] !== "Raise";
-      if (!raiserJaRespondeu && raiserIdx >= 0) {
-        activeIdx = raiserIdx;
-      } else {
-        activeIdx = Math.min(activeIdx + 1, 5);
-      }
+      activeIdx =
+        raiserIdx >= 0 && state[raiserIdx] === "Raise"
+          ? raiserIdx
+          : Math.min(activeIdx + 1, 5);
     }
   } else {
     activeIdx = Math.min(activeIdx + 1, 5);
@@ -127,8 +174,6 @@ function selectAction(label) {
 }
 
 function selectPos(idx) {
-  // Ao clicar num card, apenas muda o activeIdx
-  // Folds implícitos só são adicionados quando uma ação é tomada
   activeIdx = idx;
   render();
 }
@@ -160,11 +205,20 @@ function renderNav() {
       </div>
     `;
 
+    // Badge ação round 1
     if (!isActive && state[idx]) {
       const badge = document.createElement("div");
       badge.className = "pos-badge";
       badge.textContent = state[idx];
       card.appendChild(badge);
+    }
+
+    // Badge ação round 2 (resposta ao squeeze)
+    if (!isActive && inRoundTwo && roundTwo[idx]) {
+      const badge2 = document.createElement("div");
+      badge2.className = "pos-badge";
+      badge2.textContent = roundTwo[idx];
+      card.appendChild(badge2);
     }
 
     rail.appendChild(card);
@@ -183,9 +237,10 @@ function renderNav() {
   // Action buttons
   getActions().forEach((act) => {
     const base = baseOf(act);
-    const cur = state[activeIdx];
+    const cur = inRoundTwo ? roundTwo[activeIdx] : state[activeIdx];
     const isSelected =
-      (base === "Raise" && (cur === "Raise" || cur === "3Bet")) ||
+      (base === "Raise" &&
+        (cur === "Raise" || cur === "3Bet" || cur === "SQZ")) ||
       (base !== "Raise" && cur === base);
 
     const btn = document.createElement("button");
@@ -208,9 +263,8 @@ function renderNav() {
 
   // Reset button
   const resetBtn = document.createElement("button");
-  resetBtn.className = "action-btn";
-  resetBtn.textContent = "↺";
-  resetBtn.style.marginLeft = "auto";
+  resetBtn.className = "action-btn reset-btn";
+  resetBtn.textContent = "↺ Reset";
   resetBtn.onclick = resetGame;
   drawer.appendChild(resetBtn);
 }
@@ -222,6 +276,12 @@ async function renderMatrix() {
   const folder = getFolder();
   const url = `/api/strategy/${folder}/${pos}`;
   const matrix = document.getElementById("poker-matrix");
+
+  // Indicador de carregamento
+  matrix.innerHTML = `
+    <div class="matrix-loading">
+      <div class="spinner"></div>
+    </div>`;
 
   try {
     const res = await fetch(url);
